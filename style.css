@@ -36,4 +36,33 @@ a {
 .navbar .container .navbar_box .navbar_small_box .small_img {
   background-color: #35B8BE;
   padding: 10px 15px;
+}
+
+.door .container .door_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.door .container .door_box .door_text h2 {
+  font-size: 60px;
+}
+.door .container .door_box .door_text h2 b {
+  color: #35B8BE;
+}
+.door .container .door_box .door_text button {
+  background-color: #35B8BE;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+.door .container .door_box .door_text p {
+  color: #546285;
+  width: 400px;
+}
+.door .container .door_box .door_text h4 {
+  font-size: 13px;
+}
+.door .container .door_box .door_text h4 b {
+  color: #35B8BE;
 }/*# sourceMappingURL=style.css.map */
