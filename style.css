@@ -16,4 +16,24 @@ a {
 .container {
   margin: 0 auto;
   width: 1140px;
+}
+
+.navbar .container .navbar_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar .container .navbar_box .navbar_small_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 450px;
+}
+.navbar .container .navbar_box .navbar_small_box a:hover {
+  font-size: 15px;
+  color: #35B8BE;
+}
+.navbar .container .navbar_box .navbar_small_box .small_img {
+  background-color: #35B8BE;
+  padding: 10px 15px;
 }/*# sourceMappingURL=style.css.map */
