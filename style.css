@@ -235,4 +235,28 @@ a {
   color: white;
   border: none;
   border-radius: 5px;
+}
+
+.call .container .call_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.call .container .call_box .call_text h2 {
+  color: #35B8BE;
+  font-size: 50px;
+}
+.call .container .call_box .call_text p {
+  width: 400px;
+}
+.call .container .call_box .call_text button {
+  padding: 15px 20px;
+  background-color: #35B8BE;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.call .container .call_box img {
+  width: 500px;
+  height: 500px;
 }/*# sourceMappingURL=style.css.map */
