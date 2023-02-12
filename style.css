@@ -215,4 +215,24 @@ a {
   background-color: #35B8BE;
   border: none;
   border-radius: 5px;
+}
+
+.see .container .see_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.see .container .see_box .see_text h2 {
+  color: #35B8BE;
+  font-size: 50px;
+}
+.see .container .see_box .see_text p {
+  width: 400px;
+}
+.see .container .see_box .see_text button {
+  padding: 15px 20px;
+  background-color: #35B8BE;
+  color: white;
+  border: none;
+  border-radius: 5px;
 }/*# sourceMappingURL=style.css.map */
