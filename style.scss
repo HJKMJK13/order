@@ -76,4 +76,33 @@ a{
     }
 }
 
+.fresh{
+    margin-top: 30px;
+    .container{
+        .fresh_box{
+            display: flex;
+            align-items:center;
+            justify-content: space-between;
+            
+            .fresh_text{
+                h2{
+                    color: #35B8BE;
+                    font-size: 51px;
+                }
+                p{
+                    width: 400px;
+                    color:  #546285;
+                }
+                button{
+                    padding: 15px 20px;
+                    background-color: #35B8BE;
+                    border: none;
+                    border-radius: 5px; 
+                    color: white;  
+                }
+            }
+        }
+    }
+}
+
 

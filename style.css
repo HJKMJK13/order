@@ -65,4 +65,28 @@ a {
 }
 .door .container .door_box .door_text h4 b {
   color: #35B8BE;
+}
+
+.fresh {
+  margin-top: 30px;
+}
+.fresh .container .fresh_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.fresh .container .fresh_box .fresh_text h2 {
+  color: #35B8BE;
+  font-size: 51px;
+}
+.fresh .container .fresh_box .fresh_text p {
+  width: 400px;
+  color: #546285;
+}
+.fresh .container .fresh_box .fresh_text button {
+  padding: 15px 20px;
+  background-color: #35B8BE;
+  border: none;
+  border-radius: 5px;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
