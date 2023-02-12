@@ -276,6 +276,7 @@ a{
                 }
                 p{
                     width: 400px;
+                    color: #546285;
                 }
                 button{
                     padding: 15px 20px;
@@ -297,12 +298,14 @@ a{
             align-items: center;
             justify-content: space-between;
             .call_text{
+                width: 400px;
                 h2{
                     color: #35B8BE;
                     font-size: 50px;
                 }
                 p{
                     width: 400px;
+                    color: #546285;
                 }
                 button{
                     padding: 15px 20px;
@@ -312,10 +315,7 @@ a{
                     border-radius: 5px;
                 }
             }
-            img{
-                width: 500px;
-                height: 500px;
-            }
+            
         }
     }
 }
