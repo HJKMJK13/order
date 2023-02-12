@@ -89,4 +89,28 @@ a {
   border: none;
   border-radius: 5px;
   color: white;
+}
+
+.how {
+  margin-top: 50px;
+}
+.how .container .how_text {
+  text-align: center;
+  color: #35B8BE;
+  font-size: 50px;
+}
+.how .container .how_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.how .container .how_box .how_small {
+  width: 300px;
+}
+.how .container .how_box .how_small h3 {
+  text-align: center;
+}
+.how .container .how_box .how_small p {
+  text-align: center;
+  color: #546285;
 }/*# sourceMappingURL=style.css.map */

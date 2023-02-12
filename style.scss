@@ -105,6 +105,32 @@ a{
     }
 }
 
+.how{
+    margin-top: 50px;
+    .container{
+        .how_text{
+            text-align: center;
+            color: #35B8BE;
+            font-size:50px;
+        }
 
+        .how_box{
+           display: flex;
+           align-items: center;
+           justify-content: space-between;
+
+           .how_small{
+            width: 300px;
+            h3{
+                text-align: center;
+            }
+            p{
+                text-align: center;
+                color: #546285;
+            }
+           }
+        }
+    }
+}
 
 
