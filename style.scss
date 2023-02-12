@@ -133,4 +133,131 @@ a{
     }
 }
 
+.our{
+    background-color:  #F5FBFC;
+    background-size: 100%;
+    .container{
+        .our_box1{
+          width: 500px;
+          margin-left: auto;
+          margin-right: auto;
+          h2{
+            text-align: center;
+            color: #35B8BE;
+          }
+          p{
+            text-align: center;
+            color: #546285;
+          }
+
+          .our_list{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            .our_item{
+                button{
+                    padding: 15px 30px;
+                    border: none;
+                    border-radius: 5px;
+                }
+                button:hover{
+                    background-color: #35B8BE;
+                }
+            }
+          }
+        }
+
+        .our_box2{
+            .our_small{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-bottom: 30px;
+                .our_small1{
+                    width: 500px;
+                    height: 200px;
+                    display: flex;
+                    align-items: center;
+                    justify-content:space-between;
+                    background-color: white;
+                    img{
+                        margin-left: 20px;
+                    }
+                    .boxca{
+                        margin-left: 20px;
+                       
+                        p{
+                            color: #546285;
+                        }
+
+                        .box_list{
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-between;
+                            width: 160px;
+            
+                            .box_item{
+                                button{
+                                    padding: 10px 15px;
+                                }
+                                .btn_1{
+                                  padding: 10px 15px;
+                                  background-color: #35B8BE;
+                                  border: none;
+                                  border-radius: 5px; 
+                                }
+                            
+                            }
+                            
+                        }
+                    }
+                }
+
+                .our_small2{
+                    width: 500px;
+                    height: 200px;
+                    display: flex;
+                    align-items: center;
+                    justify-content:space-between;
+                    background-color: white;
+                    margin-left: 40px;
+
+                    img{
+                        margin-left: 20px;
+                    }
+                    .boxca{
+                        margin-left: 20px;
+                       
+                        p{
+                            color: #546285;
+                        }
+
+                        .box_list{
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-between;
+                            width: 160px;
+            
+                            .box_item{
+                                button{
+                                    padding: 10px 15px;
+                                }
+                                .btn_1{
+                                  padding: 10px 15px;
+                                  background-color: #35B8BE;
+                                  border: none;
+                                  border-radius: 5px; 
+                                }
+                            
+                            }
+                            
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
 
