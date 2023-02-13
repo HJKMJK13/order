@@ -260,4 +260,33 @@ a {
   color: white;
   border: none;
   border-radius: 5px;
+}
+
+.good .container .good_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.good .container .good_box img {
+  width: 560px;
+  height: 540px;
+}
+.good .container .good_box .good_small {
+  background-color: #35B8BE;
+  width: 560px;
+  height: 540px;
+}
+.good .container .good_box .good_small h2 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 200px;
+  color: white;
+}
+.good .container .good_box .good_small h2 b {
+  color: #546285;
+}
+.good .container .good_box .good_small button {
+  padding: 10px 20px;
+  margin-left: 35px;
+  color: #35B8BE;
 }/*# sourceMappingURL=style.css.map */
