@@ -380,6 +380,19 @@ a{
                 }
             }
         }
+
+        .by_list{
+            display: flex;
+            align-items:center;
+            justify-content: space-between;
+            width: 260px;
+            margin-left:-50px;
+            .by_item{
+                display:flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+        }
     }
 }
 

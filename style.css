@@ -309,4 +309,16 @@ a {
 }
 .foot .container .foot_box .foot_list .foot_item p {
   color: #546285;
+}
+.foot .container .by_list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 260px;
+  margin-left: -50px;
+}
+.foot .container .by_list .by_item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }/*# sourceMappingURL=style.css.map */
