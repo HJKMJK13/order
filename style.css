@@ -289,4 +289,24 @@ a {
   padding: 10px 20px;
   margin-left: 85px;
   color: #35B8BE;
+}
+
+.foot .container .foot_box {
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+.foot .container .foot_box .foot_box1 p {
+  color: #546285;
+}
+.foot .container .foot_box .foot_list {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+}
+.foot .container .foot_box .foot_list .foot_item a {
+  color: black;
+}
+.foot .container .foot_box .foot_list .foot_item p {
+  color: #546285;
 }/*# sourceMappingURL=style.css.map */

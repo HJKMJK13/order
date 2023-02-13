@@ -354,4 +354,33 @@ a{
     }
 }
 
+.foot{
+    .container{
+        .foot_box{
+            margin-top: 150px;
+            display: flex;
+            justify-content: space-between;
+            .foot_box1{
+                p{
+                    color: #546285;
+                }
+            }
+
+            .foot_list{
+                display: flex; 
+                justify-content: space-between;
+                width: 500px;
+                .foot_item{
+                    a{
+                        color: black;
+                    }
+                    p{
+                        color: #546285;
+                    }
+                }
+            }
+        }
+    }
+}
+
 
